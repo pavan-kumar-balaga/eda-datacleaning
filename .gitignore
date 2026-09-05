@@ -1,0 +1,31 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Virtual Environment
+
+venv/
+env/
+.venv/
+
+# IDE / Editor files
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Temporary files
+
+*.tmp
+*.log
+*.bak
